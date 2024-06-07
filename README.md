@@ -33,4 +33,4 @@ Add CNAME records for SSL certificate resolution
 ## Check the website
 Visit the website using custom domain name "jaspreetsohal.com" 
 
-![alt text](https://github.com/jaysohal/Lightsail/blob/main/websitedns.png)
+![alt text](https://github.com/jaysohal/Lightsail/blob/main/images/websitedns.png)

@@ -1,6 +1,6 @@
 # Lightsail
 
-Host a werdpress website on AWS Lightsail. 
+Host a Wordpress website on AWS Lightsail. 
 
 
 ## Create Instances
